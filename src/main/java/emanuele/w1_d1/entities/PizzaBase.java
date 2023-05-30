@@ -1,5 +1,4 @@
-package it.epicode.be.godfather.model;
-
+package emanuele.w1_d1.entities;
 import lombok.AllArgsConstructor;
 import lombok.Getter;
 import lombok.Setter;

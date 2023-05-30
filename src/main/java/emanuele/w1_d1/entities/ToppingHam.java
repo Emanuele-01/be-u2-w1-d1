@@ -1,7 +1,7 @@
 /**
  * 
  */
-package it.epicode.be.godfather.model;
+package emanuele.w1_d1.entities;
 
 /**
  * @author gabri

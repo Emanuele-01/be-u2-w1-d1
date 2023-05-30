@@ -1,18 +1,12 @@
-package it.epicode.be.godfather.config;
+package emanuele.w1_d1.config;
 
-import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
-import org.springframework.context.annotation.Primary;
-import org.springframework.context.annotation.Scope;
-
 import it.epicode.be.godfather.model.Drink;
 import it.epicode.be.godfather.model.DrinkLemonade;
 import it.epicode.be.godfather.model.Franchise;
 import it.epicode.be.godfather.model.FranchiseMug;
 import it.epicode.be.godfather.model.Menu;
-import it.epicode.be.godfather.model.Pizza;
-import it.epicode.be.godfather.model.PizzaFamilySize;
 import it.epicode.be.godfather.model.PizzaHawaiian;
 import it.epicode.be.godfather.model.PizzaMargherita;
 import it.epicode.be.godfather.model.PizzaSalami;

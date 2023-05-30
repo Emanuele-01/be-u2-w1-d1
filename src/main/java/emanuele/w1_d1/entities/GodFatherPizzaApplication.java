@@ -1,5 +1,4 @@
-package it.epicode.be.godfather;
-
+package emanuele.w1_d1.entities;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 

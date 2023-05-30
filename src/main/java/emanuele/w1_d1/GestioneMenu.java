@@ -1,4 +1,4 @@
-package it.epicode.be.godfather;
+package emanuele.w1_d1;
 
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 

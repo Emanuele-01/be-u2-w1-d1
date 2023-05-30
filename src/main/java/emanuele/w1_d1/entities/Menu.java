@@ -1,4 +1,4 @@
-package it.epicode.be.godfather.model;
+package emanuele.w1_d1.entities;
 
 import java.util.ArrayList;
 import java.util.List;

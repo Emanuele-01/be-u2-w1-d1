@@ -1,5 +1,4 @@
-package it.epicode.be.godfather;
-
+package emanuele.w1_d1.entities;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 
 import it.epicode.be.godfather.config.MenuConfig;
